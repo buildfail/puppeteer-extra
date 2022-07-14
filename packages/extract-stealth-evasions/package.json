@@ -25,7 +25,7 @@
     "puppeteer": "*",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-stealth": "^2.7.8",
-    "terser": "^5.1.0",
+    "terser": "^5.14.2",
     "yargs": "^15.4.1"
   }
 }
